@@ -1,0 +1,19 @@
+
+{
+  "name": "Bíblia Projeção Pro",
+  "short_name": "Bíblia Pro",
+  "description": "Bíblia com gerador de slides para projeção em igrejas.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3004/3004408.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

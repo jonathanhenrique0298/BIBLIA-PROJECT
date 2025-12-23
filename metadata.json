@@ -1,0 +1,5 @@
+{
+  "name": "Bíblia para Projeção",
+  "description": "Aplicativo de Bíblia com gerador de slides 16:9 formatados para projeção em igrejas usando a fonte League Spartan.",
+  "requestFramePermissions": []
+}
